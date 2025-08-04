@@ -1,1 +1,15 @@
-
+{
+    "id": 113565966,
+    "name": "Dead Inside",
+    "author": "Schafi",
+    "creators": ["Schafi"],
+    "verifier": "Schafi",
+    "verification": "https://youtu.be/paxmWPMMJVM",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Blendro",
+            "percent": 100
+        }
+    ]
+}
