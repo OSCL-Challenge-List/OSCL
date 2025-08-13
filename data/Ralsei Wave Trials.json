@@ -1,1 +1,23 @@
-
+{
+    "id": 124556307,
+    "name": "Ralsei Wave Trials",
+    "author": "Rkx",
+    "creators": ["Rkx"],
+    "verifier": "StockUniverse",
+ "verification": "https://youtu.be/NUy6dpA2JHI",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Qwerzix",
+            "percent": 100
+        },
+        {
+            "user": "Blendro",
+            "percent": 100
+                    },
+        {
+            "user": "Pentamery",
+            "percent": 100
+        }
+    ]
+}
