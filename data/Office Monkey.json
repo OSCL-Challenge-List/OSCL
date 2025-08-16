@@ -6,6 +6,9 @@
     "verifier": "Coconut",
     "verification": "https://youtu.be/Rcqe8mhWhRU",
     "percentToQualify": "100",
-    "records": [
+    "records": [{
+            "user": "EK",
+            "percent": 100
+                    }
     ]
 }
