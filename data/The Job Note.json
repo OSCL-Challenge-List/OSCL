@@ -7,5 +7,13 @@
     "verification": "https://youtu.be/ZUF-Da9reFI",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Melhorando",
+            "percent": 100
+                                                        },
+        {
+            "user": "Pentamery",
+            "percent": 100
+                                            }
     ]
 }
