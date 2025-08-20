@@ -12,8 +12,12 @@
             "percent": 100
                                 },
         {
-            "user": "blendro",
+            "user": "Blendro",
             "percent": 100
-                    }
+                    },
+        {
+            "user": "Melhorando",
+            "percent": 100
+        }
     ]
 }
