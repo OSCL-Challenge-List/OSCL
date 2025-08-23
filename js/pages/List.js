@@ -128,7 +128,7 @@ export default {
                         Physics Bypass is not allowed for completions or submissions
                     </p>
                     <p>
-                        Raw footage is REQUIRED for any level in the top 5, and we will go case-by-case for top 10's and top 15's.
+                        Raw footage and 2 track audio is REQUIRED for any level in the top 5, and we will go case-by-case for top 10's and top 15's. Although 2TA is not required for anything outside the top 5.
                     </p>
                 </div>
             </div>
