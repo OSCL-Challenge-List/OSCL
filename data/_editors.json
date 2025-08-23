@@ -7,7 +7,7 @@
 
 
     {
-        "role": "helper",
+        "role": "admin",
         "name": "EK",
         "link": "https://www.youtube.com/@eighfulkaihf"
     },
@@ -16,5 +16,15 @@
         "role": "dev",
         "name": "Blendro",
         "link": "https://www.youtube.com/@blendro"
+    },
+    {
+        "role": "dev",
+        "name": "slidedlol",
+        "link": "https://www.youtube.com/@slidedlolgd"
+    },
+    {
+        "role": "dev",
+        "name": "Snale Lorde",
+        "link": "https://www.youtube.com/@blockey2009"
     }
 ]
