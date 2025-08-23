@@ -127,6 +127,9 @@ export default {
                     <p>
                         Physics Bypass is not allowed for completions or submissions
                     </p>
+                    <p>
+                        Raw footage is REQUIRED for any level in the top 5, and we will go case-by-case for top 10's and top 15's.
+                    </p>
                 </div>
             </div>
         </main>
