@@ -7,5 +7,9 @@
     "verification": "https://youtu.be/w640emN6f4c",
     "percentToQualify": 100,
     "records": [
+                {
+            "user": "slidedlol",
+            "percent": 100,
+        }
     ]
 }
