@@ -1,1 +1,19 @@
-
+{
+    "id": 125258440,
+    "name": "Reflect",
+    "author": "Rkx",
+    "creators": ["Rkx"],
+    "verifier": "Rkx",
+    "verification": "https://youtu.be/QNtGvWD3wsk",
+    "percentToQualify": "100",
+    "records": [
+         {
+            "user": "Snale Lorde",
+            "percent": 100
+                                                                                     },
+        {
+            "user": "Pentamery",
+            "percent": 100
+        }
+    ]
+}
