@@ -1,1 +1,15 @@
-
+{
+    "id": 125186136,
+    "name": "howl",
+    "author": "Rkx",
+    "creators": ["Rkx"],
+    "verifier": "Blendro",
+    "verification": "https://youtu.be/mS0SK1WzkNY",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Pentamery",
+            "percent": 100
+        }
+    ]
+}
