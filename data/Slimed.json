@@ -7,5 +7,9 @@
     "verification": "https://youtu.be/8Y7ZS9qslog?si=GGaxR6vDlU1481OE",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "EK",
+            "percent": 100
+                    }
     ]
 }
