@@ -1,1 +1,15 @@
-
+{
+    "id": 125371523,
+    "name": "realistik211",
+    "author": "Coconut",
+    "creators": ["Coconut"],
+    "verifier": "Coconut",
+    "verification": "https://youtu.be/0ZqIPzcOUoo",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Pentamery",
+            "percent": 100
+        }
+    ]
+}
