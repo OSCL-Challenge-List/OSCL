@@ -1,0 +1,15 @@
+{
+    "id": 125687033,
+    "name": "cringaling",
+    "author": "slidedlol",
+    "creators": ["slidedlol"],
+    "verifier": "slidedlol",
+    "verification": "https://www.youtube.com/watch?v=jvI2GHrh1xQ",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Pentamery",
+            "percent": 100,
+        }
+    ]
+}
