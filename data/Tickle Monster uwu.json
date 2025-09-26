@@ -8,5 +8,9 @@
     "verification": "https://youtu.be/EKmAJGyujIQ",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Coconut",
+            "percent": 100
+        }
     ]
 }
