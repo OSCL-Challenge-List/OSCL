@@ -35,7 +35,11 @@
         {
             "user": "Tomato",
             "percent": 100
-        }
+        },
+        {
+            "user": "Ian",
+            "percent": 100
+                    }
     ]
 }
 
