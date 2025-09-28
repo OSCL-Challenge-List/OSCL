@@ -54,6 +54,10 @@
         {
             "user": "Maple",
             "percent": 100
+                                                                                            },
+        {
+            "user": "Tomato",
+            "percent": 100
                     }
     ]
 }
