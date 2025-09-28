@@ -1,1 +1,15 @@
-
+{
+    "id": 126495176,
+    "name": "bagel choose way",
+    "author": "Bagelman",
+    "creators": ["Bagelman"],
+    "verifier": "Bagelman",
+    "verification": "https://www.youtube.com/watch?v=IquvnW8cKmc",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Rkx",
+            "percent": 100
+                    }
+    ]
+}
