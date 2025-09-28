@@ -46,6 +46,10 @@
         {
             "user": "Ian",
             "percent": 100
+                                },
+        {
+            "user": "GroupNil",
+            "percent": 100
                     }
     ]
 }
