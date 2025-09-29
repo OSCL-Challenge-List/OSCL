@@ -7,5 +7,17 @@
     "verification": "https://youtu.be/-gMC3EK33YA",
     "percentToQualify": "100",
     "records": [
+         {
+            "user": "Rkx",
+            "percent": 100
+                                                        },
+        {
+            "user": "Maple",
+            "percent": 100
+                                },
+        {
+            "user": "Tomato",
+            "percent": 100
+                                                        }
     ]
 }
