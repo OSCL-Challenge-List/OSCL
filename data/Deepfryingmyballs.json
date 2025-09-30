@@ -26,6 +26,10 @@
         {
             "user": "Quantum",
             "percent": 100
+                                                        },
+        {
+            "user": "Tomato",
+            "percent": 100
                     }
     ]
 }
