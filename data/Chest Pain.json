@@ -3,7 +3,7 @@
     "name": "Chest Pain",
     "author": "Rkx",
     "creators": ["Rkx"],
-    "verifier": "Anthony",
+    "verifier": "Snale Lorde",
     "verification": "https://youtu.be/3mrnJBSsDrg?si=H7mgz1uDiIC9p-Ju",
     "percentToQualify": "100",
     "records":                     [
@@ -11,10 +11,6 @@
             "user": "Bowm",
             "percent": 100
                                                     },
-        {
-            "user": "Snale Lorde",
-            "percent": 100
-                    },
         {
             "user": "blendro",
             "percent": 100
