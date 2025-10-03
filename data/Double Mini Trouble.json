@@ -1,12 +1,16 @@
 {
     "id": 121656576,
     "name": "Double Mini Trouble",
-    "author": "TheShadowRealm",
-    "creators": ["TheShadowRealm"],
-    "verifier": "Snale Lorde",
+    "author": "FJKR",
+    "creators": ["FJKR"],
+    "verifier": "FJKR",
     "verification": "https://www.youtube.com/watch?v=zFN0ijWB-nE",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Snale Lorde",
+            "percent":100
+        },
         {
             "user": "melhorando",
             "percent": 100
