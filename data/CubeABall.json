@@ -74,6 +74,10 @@
         {
             "user": "Caddy",
             "percent": 100
+                                             },
+        {
+            "user": "Dynno",
+            "percent": 100
                     }
     ]
 }
