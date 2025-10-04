@@ -7,6 +7,10 @@
     "verification": "https://www.youtube.com/watch?v=bXskXS7aCIk",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Pentamery",
+            "percent": 100
+        }
     ]
 }
 
