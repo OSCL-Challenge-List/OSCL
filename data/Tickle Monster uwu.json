@@ -11,6 +11,10 @@
         {
             "user": "Coconut",
             "percent": 100
+                                },
+        {
+            "user": "Pixel",
+            "percent": 100
         }
     ]
 }
