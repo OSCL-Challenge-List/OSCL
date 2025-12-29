@@ -62,6 +62,10 @@
         {
             "user": "Cole",
             "percent": 100
-                    }
+                    },
+        {
+            "user": "Melhorando",
+            "percent": 100
+                                }
     ]
 }
