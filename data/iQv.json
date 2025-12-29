@@ -6,8 +6,10 @@
     "verifier": "Bowm",
     "verification": "https://youtu.be/0tyl6GQrYrs?si=4y2U7n4mRSEbvC7N",
     "percentToQualify": "100",
-    "records":                      [
+    "records": [
         {
             "user": "Puufy",
             "percent": 100
-                                                                        }
+        }
+    ]
+}
